@@ -1,0 +1,1 @@
+# Samsung Galaxy A72 4G (a72q) EFI Dxe Drivers
